@@ -1,7 +1,6 @@
-package com.hoaxify.hoaxify.user;
+package com.hoaxifytdd.user;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface UserRepository extends JpaRepository<User, Long> {
-
 }

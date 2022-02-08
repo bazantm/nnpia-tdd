@@ -1,4 +1,4 @@
-package com.hoaxify.hoaxify.user;
+package com.hoaxifytdd.user;
 
 import org.springframework.stereotype.Service;
 
@@ -16,3 +16,4 @@ public class UserSevice {
         return userRepository.save(user);
     }
 }
+

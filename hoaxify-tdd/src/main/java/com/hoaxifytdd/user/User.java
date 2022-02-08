@@ -1,4 +1,4 @@
-package com.hoaxify.hoaxify.user;
+package com.hoaxifytdd.user;
 
 import lombok.Data;
 
